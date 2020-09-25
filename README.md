@@ -3,9 +3,9 @@
 Bu projede; Ultrasonik mesafe sensöründen aldığı verileri işleyip rastgele bir yol atayarak gider. Çözmez, sadece tahmin ederek yolunu bulur. Robot yarışmaların kategorisinde kullanılan daha öncede yarışmış robottur. (Sormayın. Hayır kazanamadık.)
 
 
-# UYARI!
+### UYARI!
 Sensörlerden aldığı veriler bozuk, yanlış vb. olması durumunda robotun hareketleri saçmalamaya başlar.
-# UYARI BİTTİ.
+### UYARI BİTMİŞTİR...
 -------------------------------------------------------------------------------------------------------------
 
 >Bu projede labirent çözen robot yapımını gösterdim. Fotoğrafı Aşağıdadır. 
